@@ -1,2 +1,2 @@
 # Pic-HUNT
-Search Images Here ( Pic-HUNT )👈
+Search Images Here ( Pic-HUNT )
